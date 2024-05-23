@@ -1,0 +1,74 @@
+[
+    {
+      "sid": "S001",
+      "name": "John Doe",
+      "age": 20,
+      "address": "123 Colombo St",
+      "cgpa": 3.5
+      
+    },
+    {
+      "sid": "S002",
+      "name": "Janith De Silva",
+      "age": 22,
+      "address": "456 5th Avenue St",
+      "cgpa": 3.1
+    },
+    {
+      "sid": "S003",
+      "name": "Chamod Bimsara",
+      "age": 19,
+      "address": "45 St.Luke St",
+      "cgpa": 3.3
+    },
+    {
+      "sid": "S004",
+      "name": "Gayan Perera",
+      "age": 21,
+      "address": "234 Main St",
+      "cgpa": 3.5
+    },
+    {
+      "sid": "S005",
+      "name": "Muhammad Ali",
+      "age": 24,
+      "address": "267 Middle St",
+      "cgpa": 3.9
+    },
+    {
+      "sid": "S006",
+      "name": "Devin Silva",
+      "age": 22,
+      "address": "57 howard St",
+      "cgpa": 3.4
+    },
+    {
+      "sid": "S007",
+      "name": "Drake fernandes",
+      "age": 22,
+      "address": "456 Elmore St",
+      "cgpa": 3.7
+    },
+    {
+      "sid": "S008",
+      "name": "Kavin Perera",
+      "age": 20,
+      "address": "147 South St",
+      "cgpa": 3.2
+    },
+    {
+      "sid": "S009",
+      "name": "Shehan Perera",
+      "age": 22,
+      "address": "22 Lucas St",
+      "cgpa": 3.7
+    },
+    {
+      "sid": "S010",
+      "name": "Evan rodrigo",
+      "age": 24,
+      "address": "90 Perera St",
+      "cgpa": 3.3
+    }
+  ]
+  
